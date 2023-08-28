@@ -1,1 +1,1 @@
-# .github
+# VIP Staple
